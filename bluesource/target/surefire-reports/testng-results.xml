@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="1549" started-at="2015-06-05T21:01:45Z" finished-at="2015-06-05T21:01:47Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="1549" started-at="2015-06-05T21:01:45Z" finished-at="2015-06-05T21:01:47Z">
+      <class name="bluesource.testreddit">
+        <test-method status="PASS" signature="orgReposTreeTest()[pri:0, instance:bluesource.testreddit@1810399e]" name="orgReposTreeTest" duration-ms="1525" started-at="2015-06-05T17:01:45Z" finished-at="2015-06-05T17:01:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orgReposTreeTest -->
+      </class> <!-- bluesource.testreddit -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
