@@ -9,9 +9,9 @@
 	<artifactId>bluesource</artifactId>
 	<dependencies>
 		<dependency>
-			<groupId>com.orasi.core</groupId>
+			<groupId>com.orasi</groupId>
 			<artifactId>Selenium-Java-Core</artifactId>
-			<version>1.0.3</version>
+			<version>1.0.4</version>
 		</dependency>
 	</dependencies>
 	<build>
